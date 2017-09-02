@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ram2509/Chat_IO/issues"
   },
-  "homepage": "https://github.com/ram2509/Chat_IO#readme"
+  "homepage": "https://github.com/ram2509/Chat_IO#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
 }
